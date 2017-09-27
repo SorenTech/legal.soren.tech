@@ -12,6 +12,15 @@ This Agreement, along with and any exhibits, schedules or attachments, between t
 
 Throughout these Terms, “Deliverables” refers only and exclusively to those items listed in the section of the attached Statement of Work titled “Deliverables.” We would love to help You with additional projects, but they require an additional Agreement and attached Statement of Work/Agreement. “Services” refers to our work for You to complete the requested Deliverables.
 
+**INCORPORATION BY REFERENCE**
+
+Although this Agreement represents the primary terms and conditions of service for Our Services and Sites, additional guidelines and rules are hereby incorporated by reference. The documents, which may be found at [https://legal.soren.tech](https://legal.soren.tech), and which are specifically incorporated by reference, and are therefore part and parcel of this Agreement are the following:
+
+    Our Privacy Policy: [https://legal.soren.tech/privacy-policy](https://legal.soren.tech/privacy-policy)
+    Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](https://legal.soren.tech/acceptable-use-policy)
+    Our DMCA Policy: [https://legal.soren.tech/dmca-policy](https://legal.soren.tech/dmca-policy)
+    Our Confidential and Proprietary Information Policy: [https://legal.soren.tech/confidential-and-proprietary](https://legal.soren.tech/confidential-and-proprietary)
+
 **TERM AND TERMINATION:**
 
 Our Agreement with You begins on the date designated in in the Statement of Work. Our Agreement with You ends either (a) on the expiration date designated in the Statement of Work, (b) when You accept the Deliverables as complete, (b) when more than 15 days have passed since we submitted the Deliverables to you and we have received no response either approving the Deliverables or requesting a cure, or (d) when We agree to an Early Termination for any reason.
@@ -106,30 +115,6 @@ All Deliverables will include authorial attribution, placement and prominence to
 
 You hereby agrees that We may use the Deliverables as part of Our portfolio and websites, galleries and other media solely for the purpose of showcasing Our work but not for any other purpose. We will not publish any confidential or non-public work without Your prior written consent.
 
-**ACCEPTABLE USE POLICY:**
-
-You agree that Deliverables provided by Us may only be used by You in an acceptable manner.
-
-Use that is Unacceptable is defined by Us as use that either (a) is forbidden by any law or treaty, (b) is deemed by Us unethical or offensive, (c) involves any attempt to use services provided by Us for “hacking”, “spamming”, or otherwise “cyber-attacking” any website, business, individual or service, or (d) is materially inconsistent with the express purpose of the services provided in a way which may hinder the use of the service by others.
-
-Unethical or Offensive use may include but is not limited to displaying or transmitting content which is (a) pornographic, (b) gratuitously violent, (c) discriminates or advocates discrimination on the basis of race, sex/gender, sexual orientation, religious belief, or mental/physical ability, (d) advocates or supports acts of terrorism or organizations engaged in acts of terrorism, or (e) content related to the buying and/or selling of illegal products or services. We reserve the right to determine whether content is Unethical or Offensive at Our sole discretion.
-
-Failure to abide by this Acceptable Use Policy may result in Our termination of this Agreement. In such a case, You agree that You are still responsible for paying for all work completed or Services provided up to the time of termination.
-
-**CONFIDENTIAL, SENSITIVE, AND PROPRIETARY INFORMATION:**
-
-We understand that Our clients handle confidential and sensitive information and that Our work may result in Our having access to some of that information. Likewise, Our work may reveal to You proprietary information about Our business or Our other Clients. Therefore, each party shall maintain, in the strictest confidence, all Confidential Information (as defined below) of the other party.
-
-“Confidential Information” means all (i) nonpublic information (at the time of disclosure) disclosed by one party to the other party under this Agreement, provided such information is marked or indicated by the disclosing party to be confidential; (ii) and any information which ought reasonably be considered confidential with regard to the circumstances surrounding disclosure, whether or not such information is marked “Confidential”. Confidential Information may include, but is not limited to, trade secrets, technical information, business forecasts and strategies, marketing plans, customer and supplier lists, personnel information, financial data, and proprietary information of third parties provided to either party in confidence that said party considers to be confidential or proprietary or that said party has a duty to treat as confidential, excluding such information as can be demonstrated to have existed in the public domain as of the Effective Date of this Agreement.
-
-Each party will (a) hold all Confidential Information in strict trust and confidence; (b) not use or permit others to use Confidential Information in any manner or for any purpose not expressly permitted or required by this Agreement; (c) not disclose or permit others to disclose any Confidential Information to any third party without obtaining the other party’s express prior written consent on a case-by-case basis; and (d) limit access to Confidential Information to employees who have a reasonable need to have such access in order to perform their work and who are bound by obligations to maintain the confidentiality of Confidential Information that are at least as protective of the Confidential Information as the provisions of this Agreement. Both party’s Agreement not disclose Confidential Information shall service the termination of this Agreement indefinitely.
-
-In the event a party is required to disclose Confidential Information pursuant to a judicial or other governmental order, such party shall, to the maximum extent permitted by law or opinion of counsel, provide the other party with prompt notice prior to any disclosure so that the party or its client may seek other legal remedies to maintain the confidentiality of such Confidential Information.
-
-Each party receiving Confidential Information shall be responsible for any breach of this provision that is caused by any of its employees, affiliates, representatives or agents and such party agrees to indemnify and hold harmless the other party from and against any liabilities, claims, damages, losses, costs and expenses resulting, directly or indirectly, from any breach by a party, or any of its employees or independent contractors, of any provision of this Agreement.
-
-Upon the termination of this Agreement, should We have in our possession any confidential information not required for Our ongoing support services to You, it will be returned to You or, at Your request, destroyed.
-
 **ASSISTANTS:**
 
 We may, at Our own expense, employ or engage the services of such employees, subcontractors, or partners, as We deem necessary to perform the Services (collectively, the “Assistants”). The Assistants are not and shall not be employees of the Client, and You shall have no obligation to provide Assistants with any salary or benefits. We shall be wholly responsible and shall remain liable for the performance of the Services by the Assistants in a manner satisfactory to You.
@@ -151,12 +136,6 @@ We agree to indemnify, defend and hold harmless Client from any and all claims, 
 You agree to indemnify, defend and hold harmless Soren LLC (and it’s members, employees, agents, and representatives) from any and all claims, actions, damages, liabilities, costs and expenses (including, without limitation, reasonable attorneys’ fees, costs and expenses) arising (i) in any manner caused by Your gross negligence; (ii) out of any claim that materials You provided, or any portion thereof, in fact infringe upon or violate any proprietary rights of any third party, including but not limited to patent, copyright and trade secret rights; or (iii) from a breach or alleged breach of any of Your representations, warranties or agreements herein.
 
 TO THE MAXIMUM EXTENT ALLOWABLE BY LAW, WE SHALL NOT BE LIABLE TO YOU FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES (INCLUDING DAMAGES FOR LOST PROFIT, LOSS OF BUSINESS OR THE LIKE) ARISING OUT OF OR RELATING TO THIS AGREEMENT, OUR PERFORMANCE HEREUNDER OR DISRUPTION OF ANY OF THE FOREGOING, EVEN IF CLIENT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE CAUSE OF ACTION, WHETHER SOUNDING IN CONTRACT, TORT, BREACH OF WARRANTY OR OTHERWISE. TO THE MAXIMUM EXTENT ALLOWABLE BY LAW, OUR AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL IN NO EVENT EXCEED THE AGGREGATE COMPENSATION PAID BY YOU TO US UNDER THIS AGREEMENT.
-
-**PRIVACY POLICY:**
-
-We will never sell or share Your personal information, including your address, email addresses, phone numbers, or financial/spending data unless that information is required for the purchase of a component or service integrated into the Deliverables or for an agreement between Us and a subcontractor.
-
-Components or services We deploy on Your behalf (such as hosting, email, or Social media services) may have different privacy policies. We are not responsible for how they use Your data. YOU agree that the entire risk arising from Your use of such Third-party services remains solely with You, to the maximum extent permitted under applicable law.
 
 **GOVERNING LAW AND DISPUTE RESOLUTION:**
 
