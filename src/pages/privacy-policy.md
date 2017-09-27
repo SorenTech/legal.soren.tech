@@ -14,6 +14,12 @@ The Children’s Online Privacy Protection Act applies to the online collection 
 
 We reserve the right to revise, amend, or modify this Policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
+**THIRD PARTY SERVICES**
+
+Parts of Our Services may include Our use of third party services (such as billing services) or enable You to utilize third party services (such as email providers or analytics platforms), whether configured Yourself or administered by Us on Your behalf.
+
+THIRD PARTY SERVICES, WHETHER USED BY US, CONFIGURED BY YOU, OR ADMINISTERED BY US ON YOUR BEHALF, MAY HAVE DIFFERENT PRIVACY POLICIES. YOU ACKNOWLEDGE AND EXPRESSLY AGREE THAT WE ARE NOT RESPONSIBLE FOR HOW THEY USE YOUR DATA. YOU AGREE THAT THE ENTIRE RISK ARISING FROM YOUR USE OF SUCH THIRD-PARTY SERVICES REMAINS SOLELY WITH YOU, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW.
+
 **PERSONAL INFORMATION THAT WE COLLECT**
 
 Visitors and users of our Sites and Services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows:
@@ -22,9 +28,11 @@ Visitors and users of our Sites and Services will have multiple manners of inter
     Subscribers - Subscribers are those users who have visited Our Sites and elected to subscribe to Our newsletters or other communications services. We collect their name, email address, and may additionally collect publicly available information from social forums and other websites.
     Posters - Posters are visitors to Our Sites who choose to register to post information in public forums. Minimal information is sought from Posters, and no actual personally identifying information must be submitted in order to become a Poster. Nevertheless, any information entered voluntarily by the Poster should be considered to be public information or information that is publicly available. If you do not wish for information to be made public, you should not enter it into your user profile when registering as a Poster. We may additionally collect publicly available information from social forums and other websites regarding individuals who have registered as Posters.
     Browsers - Browsers are visitors to the site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Posters and Subscribers. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below).
-    Client End-Users - Client end-users are individuals who visit a site owned by one of Our Clients and operated on Our network. Our Clients may collect information regarding such end users which may be stored in Our systems. We do not actively access such information except in so far as it is necessary to perform Our work on behalf of Our Clients.
+    Client End-Users - Client end-users are individuals who visit a site owned by one of Our Clients and operated on Our network. Our Clients may use Our Services to collect information regarding such end users which may be stored in Our systems. We do not actively access such information except in so far as it is necessary to perform Our work on behalf of Our Clients.
 
 Individual users may fall into multiple of the above categories. In such a case, they should consider that the information We collect about them may be the aggregate of the different categories to which they belong.
+
+**A Message To The End Users** Hello, End User! You may be visiting a Site operated by a Client of Soren LLC. However, Soren LLC has no direct relationship with You. If you’d like to make any requests regarding your personal information, please contact the owner of the site you’ve visited or used, as they control your data. They may then submit any such information requests to us, and we’ll respond to them. We retain your information in accordance with this Privacy Policy.
 
 **HOW WE COLLECT INFORMATION FROM YOU**
 
