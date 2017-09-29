@@ -16,10 +16,10 @@ Throughout these Terms, “Deliverables” refers only and exclusively to those 
 
 Although this Agreement represents the primary terms and conditions of service for Our Services and Sites, additional guidelines and rules are hereby incorporated by reference. The documents, which may be found at [https://legal.soren.tech](https://legal.soren.tech), and which are specifically incorporated by reference, and are therefore part and parcel of this Agreement are the following:
 
-    Our Privacy Policy: [https://legal.soren.tech/privacy-policy](https://legal.soren.tech/privacy-policy)
-    Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](https://legal.soren.tech/acceptable-use-policy)
-    Our DMCA Policy: [https://legal.soren.tech/dmca-policy](https://legal.soren.tech/dmca-policy)
-    Our Confidential and Proprietary Information Policy: [https://legal.soren.tech/confidential-and-proprietary](https://legal.soren.tech/confidential-and-proprietary)
+- Our Privacy Policy: [https://legal.soren.tech/privacy-policy](/privacy-policy)
+- Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](/acceptable-use-policy)
+- Our DMCA Policy: [https://legal.soren.tech/dmca-policy](/dmca-policy)
+- Our Confidential and Proprietary Information Policy: [https://legal.soren.tech/confidential-and-proprietary](/confidential-and-proprietary)
 
 **TERM AND TERMINATION:**
 
@@ -42,14 +42,12 @@ Our relationship to You shall be that of an independent contractor.  Nothing in
 **NON-SOLICITATION, NON-CIRCUMVENTION, NON-COMPETITION:**
 
 During the term of this Agreement and for a period of twelve (12) months after the termination of this Agreement for whatever reason, both parties agree not to attempt to divert or interfere with the development of the other party’s business or engage in any activity that constitutes a conflict of interest with the other party, including, but not limited to, the following:
-
-(a) any attempts, either directly or indirectly, to call on, solicit, hire, contract, or recruit, any employee or contractor of the other without the explicit permission of said party, or
-
-(b) any attempts, either directly or indirectly, to call on, solicit, or take away any of the other party’s customers or clients.
+- (a) any attempts, either directly or indirectly, to call on, solicit, hire, contract, or recruit, any employee or contractor of the other without the explicit permission of said party, or
+- (b) any attempts, either directly or indirectly, to call on, solicit, or take away any of the other party’s customers or clients.
 
 Both parties recognize that a breach of these obligations shall entitle the other party to a legal monetary penalty equal to the maximum service it should realize from such a diverted or circumvented transaction plus any and all expenses, including legal, that would involve recovery of these funds.
 
-OUR OBLIGATIONS TO YOU:
+**OUR OBLIGATIONS TO YOU:**
 
 By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the section of the Statement of Work titled “Proposed Deliverables”, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of these Terms, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) log our work hours so that we have a record of the work done and a clear basis for Our billing of You, (e) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, (f) give You notice should We elect to assign the Services to a sub-contractor, and (g) provide for you all the rights and titles describes in these Terms.
 
@@ -87,21 +85,21 @@ We agree that all completed Deliverables will fully conform to the specification
 
 **RIGHTS RETAINED AND DISTRIBUTED:**
 
-(a) Materials Owned by You
+*(a) Materials Owned by You*
 
 At all times You retain the exclusive ownership of any materials created or otherwise owned by You, including, without limitation, your existing logos, written content, and trademarks. You agree to grant Us a worldwide, irrevocable non-exclusive, royalty free, non-attribution license to use, reproduce, modify, display, and publish such materials for the purpose of completing the Deliverables and for our promotional uses as described herein.
 
-(b) Third-Party Materials
+*(b) Third-Party Materials*
 
 Any third-party materials used in this Project may come with their own licensing requirements. You agree to abide by all such licensing requirements and respect the rights of the owners of such third-party materials.
 
-(c) Rights Retained by Us
+*(c) Rights Retained by Us*
 
 You agree that We retain the exclusive ownership of all preliminary work, including, without limitation, all presentations, writings, ideas, concepts, designs, plans, sketches, markups, wireframes, prototypes, models all and other materials that We conceive or develop in connection with Our Services for You. You may not reproduce or distribute any such preliminary works without Our express written permission.
 
 You agree that We retain ownership of all computer code or scripts produced by Us, including, without limitation, all HTML, JavaScript, CSS, PHP, SQL, JSON, and all other materials that We conceive or develop in connection with Our Services for You, including materials incorporated therein whether such materials were conceived or created by Us individually or jointly, on or off the premises of Client, or during or after working time). We grant You, upon payment of all fees due to Us pursuant to this Agreement, a worldwide, irrevocable non-exclusive, royalty free, sub licensable, non-attribution license to use, modify, create derivative works, or otherwise exploit the work product.
 
-(d) Rights Distributed to You
+*(d) Rights Distributed to You*
 
 We agree that all deliverables and materials developed pursuant to this Agreement and not covered by other arrangements described herein (including, without limitation, all website text copy, images, graphics, and other materials that We conceive and develop pursuant to this Agreement, including all materials incorporated therein whether such materials were conceived or created by Us individually or jointly, on or off the premises of Client, or during or after working time) shall be treated as if the development of such deliverable constitutes a “work for hire” and shall be owned by You upon payment of all fees due to Us pursuant to this Agreement.
 
@@ -109,7 +107,7 @@ In the event that any such material is considered not to be a “work made for h
 
 We agree that We have no interest in any  such materials that We submit to You, including, without limitation, any security interest therein, and hereby release to You any interest therein (if any) which may be created by operation of law. Except as otherwise agreed to in writing and as necessary in the performance of this Agreement, We shall have no rights to license, sell or use the deliverables or materials developed under this Agreement, or any portion thereof.
 
-(e) Authorial Attribution and Showcase of Work
+*(e) Authorial Attribution and Showcase of Work*
 
 All Deliverables will include authorial attribution, placement and prominence to be agreed upon by both parties, which You agree to maintain in a visible and identifiable manner.
 
