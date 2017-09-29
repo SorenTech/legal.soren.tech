@@ -12,10 +12,10 @@ Please review the following terms carefully. By accessing or using the Services 
 
 Although this Agreement represents the primary terms and conditions of service for Our Services and Sites, additional guidelines and rules are hereby incorporated by reference. The documents, which may be found at [https://legal.soren.tech](https://legal.soren.tech), and which are specifically incorporated by reference, and are therefore part and parcel of this Agreement are the following:
 
-    Our Privacy Policy: [https://legal.soren.tech/privacy-policy](https://legal.soren.tech/privacy-policy)
-    Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](https://legal.soren.tech/acceptable-use-policy)
-    Our DMCA Policy: [https://legal.soren.tech/dmca-policy](https://legal.soren.tech/dmca-policy)
-    Our Confidential and Proprietary Information Policy: [https://legal.soren.tech/confidential-and-proprietary](https://legal.soren.tech/confidential-and-proprietary)
+- Our Privacy Policy: [https://legal.soren.tech/privacy-policy](/privacy-policy)
+- Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](/acceptable-use-policy)
+- Our DMCA Policy: [https://legal.soren.tech/dmca-policy](/dmca-policy)
+- Our Confidential and Proprietary Information Policy: [/confidential-and-proprietary](https://legal.soren.tech/confidential-and-proprietary)
 
 **REGISTRATION AND TERMINATION**
 
@@ -28,13 +28,13 @@ The Initial Term for any Services shall begin upon confirmation of Your subscrip
 Either Party may terminate Your access to the Service at any time, with or without cause, upon thirty (30) days written notice.
 
 Additionally, We reserve the right to terminate this Agreement effective immediately in the event that We find, based on Our sole judgment, that You or any of Your end-users have
-    (i) violated the Acceptable Use Policy (AUP),
-    (ii) have infringed or violated any intellectual property right or privacy or publicity right of a third party, or
-    (iii) have used the Service in a way which, based on Our sole judgment, severely compromises its security or integrity and/or infringes on the ability of others to use the Service.
+- (i) violated the Acceptable Use Policy (AUP),
+- (ii) have infringed or violated any intellectual property right or privacy or publicity right of a third party, or
+- (iii) have used the Service in a way which, based on Our sole judgment, severely compromises its security or integrity and/or infringes on the ability of others to use the Service.
 
 Either Party also may at any time terminate this Agreement immediately if:
-    (i) the other party commits a breach of this Agreement and such party does not cure a breach within 10 days of written notice from the other party, or
-    (ii) One of the parties of this agreement becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of its creditors.
+- (i) the other party commits a breach of this Agreement and such party does not cure a breach within 10 days of written notice from the other party, or
+- (ii) One of the parties of this agreement becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of its creditors.
 
 In the event this Agreement is terminated, You agree to pay for all use of the Service and any expenses or fees incurred by Us up to the date of Termination, as declared in writing by Us. We agree to use Our best efforts to minimize such costs and expenses.
 
