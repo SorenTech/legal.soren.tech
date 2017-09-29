@@ -24,11 +24,15 @@ THIRD PARTY SERVICES, WHETHER USED BY US, CONFIGURED BY YOU, OR ADMINISTERED BY 
 
 Visitors and users of our Sites and Services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows:
 
-    Clients - Clients are those users who subscribe to Our paid Services. We may collect their name, their email address, their mailing address, their age, their phone number, and any other necessary billing information.
-    Subscribers - Subscribers are those users who have visited Our Sites and elected to subscribe to Our newsletters or other communications services. We collect their name, email address, and may additionally collect publicly available information from social forums and other websites.
-    Posters - Posters are visitors to Our Sites who choose to register to post information in public forums. Minimal information is sought from Posters, and no actual personally identifying information must be submitted in order to become a Poster. Nevertheless, any information entered voluntarily by the Poster should be considered to be public information or information that is publicly available. If you do not wish for information to be made public, you should not enter it into your user profile when registering as a Poster. We may additionally collect publicly available information from social forums and other websites regarding individuals who have registered as Posters.
-    Browsers - Browsers are visitors to the site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Posters and Subscribers. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below).
-    Client End-Users - Client end-users are individuals who visit a site owned by one of Our Clients and operated on Our network. Our Clients may use Our Services to collect information regarding such end users which may be stored in Our systems. We do not actively access such information except in so far as it is necessary to perform Our work on behalf of Our Clients.
+*Clients* - Clients are those users who subscribe to Our paid Services. We may collect their name, their email address, their mailing address, their age, their phone number, and any other necessary billing information.
+
+*Subscribers* - Subscribers are those users who have visited Our Sites and elected to subscribe to Our newsletters or other communications services. We collect their name, email address, and may additionally collect publicly available information from social forums and other websites.
+
+*Posters* - Posters are visitors to Our Sites who choose to register to post information in public forums. Minimal information is sought from Posters, and no actual personally identifying information must be submitted in order to become a Poster. Nevertheless, any information entered voluntarily by the Poster should be considered to be public information or information that is publicly available. If you do not wish for information to be made public, you should not enter it into your user profile when registering as a Poster. We may additionally collect publicly available information from social forums and other websites regarding individuals who have registered as Posters.
+
+*Browsers* - Browsers are visitors to the site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Posters and Subscribers. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below).
+
+*Client End-Users* - Client end-users are individuals who visit a site owned by one of Our Clients and operated on Our network. Our Clients may use Our Services to collect information regarding such end users which may be stored in Our systems. We do not actively access such information except in so far as it is necessary to perform Our work on behalf of Our Clients.
 
 Individual users may fall into multiple of the above categories. In such a case, they should consider that the information We collect about them may be the aggregate of the different categories to which they belong.
 
@@ -36,18 +40,18 @@ Individual users may fall into multiple of the above categories. In such a case,
 
 **HOW WE COLLECT INFORMATION FROM YOU**
 
-    Passive Collection – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your Guest IDs, your geographic location and other session data.
-    Active Collection – we collect information from you when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals.
+*Passive Collection* – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your Guest IDs, your geographic location and other session data.
+
+*Active Collection* – we collect information from you when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals.
 
 **HOW WE USE YOUR INFORMATION**
 
 It is our policy not to use or share the personal information about You in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about You, or information regarding Your use of the Services or Sites, for any reason if, in our sole discretion, We believe that it is reasonable to do so, including:
-
-    To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
-    To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies;
-    To operate Our Services properly;
-    To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
-    We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+- To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
+- To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies;
+- To operate Our Services properly;
+- To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+- We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
 **TRANSMITTALS FROM US**
 
@@ -55,9 +59,11 @@ We may send you periodic announcements including the details of our existing and
 
 **PUBLIC FORUMS, MEMBER DIRECTORIES, AND INTERNAL MESSAGING**
 
-    Public Forums – Any information posted to a Forum should immediately be considered to be public information.
-    Member Directories – Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, can not, and will not act to maintain the privacy of any information that you provide in any such forum or medium.
-    Internal Messaging – We provide an internal messaging system for use between members of our Site. Any information that you send via this internal messaging system is not secure and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
+*Public Forums* – Any information posted to a Forum should immediately be considered to be public information.
+
+*Member Directories* – Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, can not, and will not act to maintain the privacy of any information that you provide in any such forum or medium.
+
+*Internal Messaging* – We provide an internal messaging system for use between members of our Site. Any information that you send via this internal messaging system is not secure and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
 
 **OUR COMMITMENT TO DATA SECURITY**
 
