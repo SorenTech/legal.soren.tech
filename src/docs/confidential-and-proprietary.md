@@ -10,26 +10,26 @@ We understand that Our Clients may handle confidential, sensitive, and proprieta
 **DEFINITION OF CONFIDENTIAL INFORMATION**
 
 Confidential Information means all
-    (i) nonpublic information (at the time of disclosure) disclosed by one party to the other party under this Agreement, provided such information is marked or indicated by the disclosing party to be confidential; and
-    (ii) any information which ought reasonably be considered confidential with regard to the circumstances surrounding disclosure, whether or not such information is marked “Confidential”.
+- (i) nonpublic information (at the time of disclosure) disclosed by one party to the other party under this Agreement, provided such information is marked or indicated by the disclosing party to be confidential; and
+- (ii) any information which ought reasonably be considered confidential with regard to the circumstances surrounding disclosure, whether or not such information is marked “Confidential”.
 
 Confidential Information may include, but is not limited to:
-    - trade secrets,
-    - technical information,
-    - business forecasts and strategies,
-    - marketing plans,
-    - customer and supplier lists,
-    - personnel information,
-    - financial data, and
-    - proprietary information of third parties provided to either party in confidence that said party considers to be confidential or proprietary or that said party has a duty to treat as confidential, excluding such information as can be demonstrated to have existed in the public domain as of the date of disclosure.
+- trade secrets,
+- technical information,
+- business forecasts and strategies,
+- marketing plans,
+- customer and supplier lists,
+- personnel information,
+- financial data, and
+- proprietary information of third parties provided to either party in confidence that said party considers to be confidential or proprietary or that said party has a duty to treat as confidential, excluding such information as can be demonstrated to have existed in the public domain as of the date of disclosure.
 
 **TREATMENT OF CONFIDENTIAL INFORMATION**
 
 Each party will
-    (a) hold all Confidential Information in strict trust and confidence;
-    (b) not use or permit others to use Confidential Information in any manner or for any purpose not expressly permitted or required by written Agreement;
-    (c) not disclose or permit others to disclose any Confidential Information to any third party without obtaining the other party’s express prior written consent on a case-by-case basis; and
-    (d) limit access to Confidential Information to employees who have a reasonable need to have such access in order to perform their work and who are bound by obligations to maintain the confidentiality of Confidential Information that are at least as protective of the Confidential Information as the provisions of this Agreement.
+- (a) hold all Confidential Information in strict trust and confidence;
+- (b) not use or permit others to use Confidential Information in any manner or for any purpose not expressly permitted or required by written Agreement;
+- (c) not disclose or permit others to disclose any Confidential Information to any third party without obtaining the other party’s express prior written consent on a case-by-case basis; and
+- (d) limit access to Confidential Information to employees who have a reasonable need to have such access in order to perform their work and who are bound by obligations to maintain the confidentiality of Confidential Information that are at least as protective of the Confidential Information as the provisions of this Agreement.
 
 **THESE TERMS DO NOT EXPIRE**
 
@@ -41,7 +41,7 @@ In the event one party is required to disclose Confidential Information pursuant
 
 **WAIVER FOR VIOLATION OF ACCEPTABLE USE POLICY**
 
-You acknowledge and Agree that Our obligations to protect Your Confidential Information may be waived by Us if We determine, at Our sole discretion, that (a) You or Your end users have violated our Acceptable Use Policy, and (b) that such violation compels us to make a report to relevant law enforcement agencies in accordance with the reporting requirements of 18 U.S.C. § 2258A. In such a case, You acknowledge and expressly Agree that We are not liable to You or to any of Your end users for the disclosure of any Confidential Information.
+You acknowledge and Agree that Our obligations to protect Your Confidential Information may be waived by Us if We determine, at Our sole discretion, that (a) You or Your end users have violated our Acceptable Use Policy, and (b) that such violation compels us to make a report to relevant law enforcement agencies in accordance with the reporting requirements of [18 U.S.C. § 2258A](https://www.law.cornell.edu/uscode/text/18/2258A). In such a case, You acknowledge and expressly Agree that We are not liable to You or to any of Your end users for the disclosure of any Confidential Information.
 
 **AGREEMENT TO INDEMNIFY**
 
