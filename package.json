@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.42",
-    "gatsby-link": "^1.6.15",
-    "gatsby-plugin-react-helmet": "^1.0.5"
+    "gatsby": "^1.9.260",
+    "gatsby-link": "^1.6.16",
+    "gatsby-plugin-react-helmet": "^1.0.6",
+    "snyk": "^1.103.4"
   },
   "keywords": [
     "gatsby"
@@ -17,9 +18,12 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
     "prettier": "^1.6.1"
-  }
+  },
+  "snyk": true
 }
