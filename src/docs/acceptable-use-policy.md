@@ -4,41 +4,37 @@ late-updated: September 26, 2017
 requires-sig: no
 ---
 
-The following is Soren LLC's ("We", "Us", "Our") Acceptable Use Policy (the "AUP"). By using any of the services provided by Soren LLC (collectively, the "Services"), You agree to comply with this AUP. You also agree to require your end users to comply with this AUP (hereafter, you and your end users together shall be collectively "You" and "Your"). Soren LLC reserves the right to amend this AUP at any time, with or without notice to you. We agree to post any changes to this AUP on our legal page (located at: https://legal.soren.tech) and you agree to periodically review this AUP as modified from time to time. You agree to be bound to this AUP, as modified from time to time, every time you use or access the Services.
+The following is Soren LLC's ("We", "Us", "Our") Acceptable Use Policy (the "AUP"). This policy is applied in two ways:
+  1. If you are using a Service hosted or supplied by Soren, LLC, You agree that You and Your end users (hereafter, you and your end users together shall be collectively "You" and "Your") must comply with this AUP to continue using the Service;
+  2. Soren will not provide bespoke Services which violate any of the clauses of this AUP.
 
-Pursuant with Our [Master Service Agreement](/master-service-agreement) and Terms of Use (/terms-of-use), We may, at Our Sole Discretion, immediatley terminate Your access to any and all provided Services if Your conduct violates (or appears to violate) this AUP. In such a case, You agree that You are still responsible for paying for all use of the Service up to the time of termination.
+Soren LLC reserves the right to amend this AUP at any time, with or without notice to you. We agree to post any changes to this AUP on our legal page (located at: https://legal.soren.tech) and you agree to periodically review this AUP as modified from time to time. You agree to be bound to this AUP, as modified from time to time, every time you use or access the Services.
 
-**NO UNLAWFUL OR PROHIBITED USE**
+Pursuant with Our [Master Service Agreement](/master-service-agreement) and [Terms of Use](/terms-of-use), We may, at Our Sole Discretion, immediatley terminate Your access to any and all provided Services if Your conduct or requested services violate (or appear to violate) this AUP. In such a case, You agree that You are still responsible for paying for all use of the Service up to the time of termination.
 
-As a condition of Your use of the Services, You will not use the Services (nor will You permit an end user to use the Services) for any purpose
-* (a) that is forbidden by any law or treaty,
-* (b) is deemed by Us unethical or offensive (see below),
-* (c) involves any attempt to use services provided by Us for “hacking”, “spamming”, “crawling”, “manipulating”, “disrupting”, or otherwise “cyber-attacking” any website, business, individual or service, or for hosting files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or other similar software programs that may damage the operation of another’s property,
-* (d) includes the distribution of material protected by intellectual property laws (unless You own or control the rights thereto or have received all necessary consents to do the same), or
-* (e) is materially inconsistent with the express purpose of the services provided in a way which may hinder the use of the service by others.
+**PROHIBITED USES**
 
-**UNETHICAL OR OFFENSIVE CONTENT**
+You may not ask Us to engage in or use Our Services for any of the following:
+* (a) making threats or engaging in violent intimidation,
+* (b) engaging in, supporting, or financing acts or organizations engaged in acts of terrorism, genocide, or ethnic cleansing,
+* (c) engaging in or supporting any other act of racial, religious, or sexual violence,
+* (d) harrassment, abuse, or harm of another person or group,
+* (e) violating US Sanctions,
+* (f) participating in or supporting human trafficking, the exploitation of children, or the production or distribution on non-consensual pornography,
+* (g) producing or distributing content known to be slanderous or libelous,
+* (h) producing or distributing content which has or intends to have the effect of interfering with the conduct or outcome of an election,
+* (i) any attempt at unauthorized “hacking”, “spamming”, “crawling”, “manipulating”, “disrupting”, or otherwise “cyber-attacking” any website, business, individual or service, or supplying/hosting files that contain viruses, trojan horses, worms, time bombs, cancelbots, corrupted files, or other similar software programs that may damage the operation of another’s property,
+* (j) distributing material protected by intellectual property laws (unless You own or control the rights thereto or have received all necessary consents to do the same), 
+* (k) discriminating or advocating discrimination on the basis of race, sex/gender, sexual orientation, religious belief, or mental/physical ability,
+* (l) use in connection with unlawful contests, lotteries, gambling, pyramid schemes, chain letters, junk email, or spamming,
+* (m) distributing any proprietary or confidential information about Us, Our other clients, or any end-users of Our Service without Our/their express permission,
+* (n) engaging in actions materially inconsistent with the express purpose of the services provided in a way which may hinder the use of the service by others.
 
-Unethical or Offensive use may include but is not limited to displaying or transmitting content which is
-* (a) pornographic,
-* (b) gratuitously violent,
-* (c) discriminates or advocates discrimination on the basis of race, sex/gender, sexual orientation, religious belief, or mental/physical ability,
-* (d) advocates or supports acts of terrorism or organizations engaged in acts of terrorism,
-* (e) related to the buying and/or selling of illegal products or services,
-* (f) promotes illegal activities,
-* (g) attempts to or does harass, abuse, or harm another person or group,
-* (h) uses another user’s account without permission,
-* (i) provides false or inaccurate information in an account registration,
-* (j) is abusive, threatening, obscene, defamatory, libelous, or racially, sexually, religiously, or otherwise objectionable and offensive,
-* (h) uses the Service in connection with unlawful contests, lotteries, gambling, pyramid schemes, chain letters, junk email, spamming, or any duplicative or unsolicited messages (commercial or otherwise),
-* (i) harvests or otherwise collects information about others, including emails (except as needed to operate Your site/application and as permitted in Your privacy policy),
-* (h) distributes any proprietary or confidential information about Us, Our other clients, or any end-users of the Service without Our/their express permission.
-
-We reserve the right to determine whether content is Unethical or Offensive at Our sole discretion.
+We reserve the right to determine whether or actions violate any of the above standards at Our sole discretion.
 
 **YOUR RESPONSIBILITY AND OUR ACTIONS**
 
-You understand that You are solely responsible for Your account(s) on the Services and the activity that occurs while signed in or while using Your account(s). You acknowledge that we have no obligation to actively monitor the content of the Services, including your account(s). However, We reserve the right to review materials posted through the Services and to remove any materials at Our sole discretion. Further, We may, at Our sole discretion, elect to electronically monitor Our network and may disclose any content or records concerning Your account(s) as necessary to satisfy any law, regulation, or other governmental request or to properly operate Our network and protect any of Our customers. We will investigate complaints of violations of third party rights or of Our AUP. Further, We will cooperate with law enforcement authorities, and We reserve the right to to notify such authorities if We suspect that You or any of Your end users are engaged in illegal activities. Nothing contained in this Section, or anywhere in this AUP, is intended to bestow any rights on any third party, and no third parties shall be entitled to enforce any terms of this AUP.
+You understand that You are solely responsible for Your account(s) on the Services and the activity that occurs while signed in or while using Your account(s). 
 
 You acknowledge and expressly agree that We are not liable to You or any of Your end users for any actions We take to remove or restrict access to the Services for any alleged violation of the AUP or exercising Our rights as a Good Samaritan under the Telecommunications Act of 1996 ([47 U.S.C. § 230(d)](https://www.law.cornell.edu/uscode/text/47/230)) or under the Digital Millennium Copyright Act of 1998.
 
@@ -85,5 +81,3 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 **TERMINATION AND ACCESS RESTRICTION**
 
 We reserve the right, in our sole discretion, to terminate Your access to any or all Services and the related services or any portion thereof at any time, with or without notice, for violating this AUP. Your rights and obligations upon termination of any Service are governed by the relevant Terms of Use or Service Agreement for the Services in question. Upon termination of the Service, your right to use the Service immediately ceases. We shall have no obligation to maintain any content upon termination of the Services.
-
-
