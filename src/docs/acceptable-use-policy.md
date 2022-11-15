@@ -57,21 +57,6 @@ Any violation of the security of the Services and/or Sites is prohibited and may
 
 In the event You are involved in any violation of system security, We reserve the right to release information about You to system administrators at other sites in order to assist in resolving security incidents, and We shall also cooperate with any law enforcement agency investigating a criminal violation of system or network security. Additionally, any violation of these security provisions may, at Our sole discretion, be grounds for immediate Termination for Cause of Your access to the Services.
 
-**ANTI-SPAM POLICY**
-
-We consider any dissemination of unsolicited commercial email (i.e., "spam") to be prohibited.
-
-We may, at Our sole discretion, immediately terminate any account which we believe to be transmitting or otherwise connected with any spam or other unsolicited bulk email.
-
-Although federal law allows the dissemination of unsolicited bulk email under certain, tightly regulated conditions, we have elected to adopt a stricter, total spam ban policy. Spam, in all its forms, is annoying and burdensome, and is inconsistent with Our company values. Consistent with this commitment and our policies, we prohibit types of Spam that have not yet been contemplated by the law, including:
-- Spim or instant messenger Spam;
-- Spamming of internet newsgroups;
-- Spamming on Craigslist or other classified services, except in areas designated for such use;
-- Use of any personals service to Spam other members; and
-- Any other method of Spamming.
-
-In short, we define spam as either (a) sending a message to a recipient who does not know you, in some capacity, or (b) posting an ad somewhere that is not "on topic" and properly listed.
-
 **INTELLECTUAL RIGHTS INFRINGEMENT**
 
 Soren respects the intellectual property of others, and we ask You to do the same. We reserve the right at any time to implement a 'notice and takedown' procedure upon receipt of any notification of claimed infringement. We reserve the right at any time to disable access to, or remove any material or activity accessible on or from any site or any materials claimed to be infringing or based on facts or circumstances from which infringing activity is apparent.
