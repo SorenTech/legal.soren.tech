@@ -1,6 +1,6 @@
 ---
 title: Master Service Agreement
-last-updated: April 27, 2017
+last-updated: November 14, 2022
 requires-sig: yes
 ---
 
@@ -16,14 +16,12 @@ Throughout these Terms, “Deliverables” refers only and exclusively to those 
 
 Although this Agreement represents the primary terms and conditions of service for Our Services and Sites, additional guidelines and rules are hereby incorporated by reference. The documents, which may be found at [https://legal.soren.tech](https://legal.soren.tech), and which are specifically incorporated by reference, and are therefore part and parcel of this Agreement are the following:
 
-- Our Privacy Policy: [https://legal.soren.tech/privacy-policy](/privacy-policy)
-- Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](/acceptable-use-policy)
-- Our DMCA Policy: [https://legal.soren.tech/dmca-policy](/dmca-policy)
 - Our Confidential and Proprietary Information Policy: [https://legal.soren.tech/confidential-and-proprietary](/confidential-and-proprietary)
+- Our Acceptable Use Policy: [https://legal.soren.tech/acceptable-use-policy](/acceptable-use-policy)
 
 **TERM AND TERMINATION:**
 
-Our Agreement with You begins on the date designated in in the Statement of Work. Our Agreement with You ends either (a) on the expiration date designated in the Statement of Work, (b) when You accept the Deliverables as complete, (b) when more than 15 days have passed since we submitted the Deliverables to you and we have received no response either approving the Deliverables or requesting a cure, or (d) when We agree to an Early Termination for any reason.
+Our Agreement with You begins on the date designated in in the Statement of Work. Our Agreement with You ends either (a) on the expiration date designated in the Statement of Work, (b) when You accept the Deliverables as complete, (c) when more than 15 days have passed since we submitted the Deliverables to you and we have received no response either approving the Deliverables or requesting a cure, or (d) when We agree to an Early Termination for any reason.
 
 Either Party may terminate this Agreement at any time, with or without cause, upon 15 days written notice.
 
@@ -31,7 +29,7 @@ Either Party also may at any time terminate the Agreement immediately if: (i) th
 
 In the event of Early Termination, You agree to pay for all work We have performed and any expenses or fees incurred by Us up to the date of Termination, as declared in writing by Us. We agree to use Our best efforts to minimize such costs and expenses.
 
-Termination for any reason shall not affect the rights granted to You by Us hereunder. Upon termination, We shall pay to You all undisputed amounts due and payable. If upon termination You have not paid undisputed fees owed for the Deliverables or Services provided by Us as of the date of termination, You agree not to use any such material or the product of such Service, until You have paid Us in full. Any provisions or clause in this Contract that, by its language or context, implies its survival shall survive any termination or expiration of this Agreement. Notwithstanding anything to the contrary in this Agreement, We shall retain a perfected security interest in the Deliverables until You have made payment in full for all undisputed amounts as of the termination date. We hereby agree to release and waive Our security interest in the Deliverables upon receipt of full payment for all undisputed amounts.
+Termination for any reason shall not affect the rights of either party under this agreement. If upon termination You have not paid undisputed fees owed for the Deliverables or Services provided by Us as of the date of termination, You agree not to use any such material or the product of such Service, until You have paid Us in full. Any provisions or clause in this Contract that, by its language or context, implies its survival shall survive any termination or expiration of this Agreement. Notwithstanding anything to the contrary in this Agreement, We shall retain a perfected security interest in the Deliverables until You have made payment in full for all undisputed amounts as of the termination date. We hereby agree to release and waive Our security interest in the Deliverables upon receipt of full payment for all undisputed amounts.
 
 **RELATIONSHIP OF THE PARTIES:**
 
@@ -39,23 +37,23 @@ We remain open to conducting similar tasks or activities for clients other than 
 
 Our relationship to You shall be that of an independent contractor.  Nothing in this Agreement shall be construed to create any partnership, joint venture, employer-employee or agency relationship between Us and You.  The consulting relationship shall be non-exclusive. We shall be free to work with other clients so long as such work does not present a conflict of interest or result in the disclosure of Confidential Information (defined below).
 
+Your relationship with Us may not be used to advantage Your own products or services in any effort to bid or sell to US Government agencies, including State, Local, or Tribal government entities, or in any way create a real or perceived conflict of interest for Us in our own business relationships with such entities. You may not reference Us or our employees, contractors, or members in any bidding, sales, or marketing documents submitted as part of a formal bidding process with any such entities. You may not ask us to furnish introductions to representatives of such entities. You may, however, use any Deliverables which are (a) not attributed to us, or (b) publicly published and freely available, as part of your sales or marketing efforts towards government entities.
+
 **NON-SOLICITATION, NON-CIRCUMVENTION, NON-COMPETITION:**
 
 During the term of this Agreement and for a period of twelve (12) months after the termination of this Agreement for whatever reason, both parties agree not to attempt to divert or interfere with the development of the other party’s business or engage in any activity that constitutes a conflict of interest with the other party, including, but not limited to, the following:
-- (a) any attempts, either directly or indirectly, to call on, solicit, hire, contract, or recruit, any employee or contractor of the other without the explicit permission of said party, or
+- (a) any attempts, either directly or indirectly, to call on, solicit, hire, or recruit any employee of the other party without the explicit permission of said party, or
 - (b) any attempts, either directly or indirectly, to call on, solicit, or take away any of the other party’s customers or clients.
-
-Both parties recognize that a breach of these obligations shall entitle the other party to a legal monetary penalty equal to the maximum service it should realize from such a diverted or circumvented transaction plus any and all expenses, including legal, that would involve recovery of these funds.
 
 **OUR OBLIGATIONS TO YOU:**
 
-By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the section of the Statement of Work titled “Proposed Deliverables”, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of these Terms, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) log our work hours so that we have a record of the work done and a clear basis for Our billing of You, (e) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, (f) give You notice should We elect to assign the Services to a sub-contractor, and (g) provide for you all the rights and titles describes in these Terms.
+By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the section of the Statement of Work titled “Proposed Deliverables”, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of these Terms, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, and (e) provide for you all the rights and titles describes in these Terms.
 
 YOU AGREE THAT WE ARE NOT LIABLE FOR ANYTHING NOT LISTED AS AN OBLIGATION IN THESE TERMS.
 
 **YOUR OBLIGATIONS TO US:**
 
-By accepting this Agreement and attached Statement of Work, You agree to: (a) abide by all the Terms of this Agreement, (b) Give Us 15-days notice if You should decide to cancel this project, (c) provide Us with up-to-date information about your needs and expectations regarding the Deliverables, (d) make payments on time and in full, and (e) treat Us and any sub-contractor We may employ in a courteous and professional manner.
+By accepting this Agreement and attached Statement of Work, You agree to: (a) abide by all the Terms of this Agreement, (b) Give Us 15-days notice if You should decide to cancel this project, (c) provide Us with up-to-date information about your needs and expectations regarding the Deliverables, (d) make payments on time and in full, and (e) treat Us and any of our employees or contractors in a courteous and professional manner.
 
 Changes in Your needs and expectations regarding the Services/Deliverables may result in delays, increased charges, or both. You agree to accept those delays or increased charges. We agree to provide You, to the extent We are able, with information regarding the likely impact to the project cost and timeline of any changes.
 
@@ -69,19 +67,9 @@ Should We find you to be in breach of these representations and warranties, We m
 
 Soren LLC hereby represents and warrants that: (i) We have the right, power, and ability to enter into this Agreement, (ii) none of the Services or Deliverables or any development, use, production, distribution or exploitation thereof will infringe, misappropriate or violate any intellectual property or other right of any person or entity (including, without limitation, Our own); (iii) We have the full right to provide You with the assignments and rights provided for herein; (iv) We shall comply with all applicable laws in the course of performing the Services and (v) if Our work requires a license, We have obtained that license and the license is in full force and effect.
 
-Should any materials We have included in the Deliverables be found to infringe upon the rights and titles of another individual or should it be found that we do not posses the fight to provide you with the assignments and rights provided herein, in breach of these representations and warranties, You shall be entitled, upon your written notification to us of such a breach, to one of the following remedies: (a) We will secure such right, title, or license as may be necessary for Your continued use; (b) We will replace such materials with ones to which we posses the right, title, or license;  or (c) You may receive a full refund for payments made under this Agreement up to the date You notified us of such breach. Should we be found to be in breach of these representations and warranties in any other manner, You shall be entitled, upon your written notification of us, to a full refund for payments made under this Agreement up to the date You notified us of such breach.
+Should any materials We have included in the Deliverables be found to infringe upon the rights and titles of another individual or should it be found that we do not posses the right to provide you with the assignments and rights provided herein, in breach of these representations and warranties, You shall be entitled, upon your written notification to us of such a breach, to one of the following remedies: (a) We will secure such right, title, or license as may be necessary for Your continued use; (b) We will replace such materials with ones to which we posses the right, title, or license;  or (c) You may receive a full refund for payments made under this Agreement up to the date You notified us of such breach. Should we be found to be in breach of these representations and warranties in any other manner, You shall be entitled, upon your written notification of us, to a full refund for payments made under this Agreement up to the date You notified us of such breach.
 
 EXCEPT AS SET FORTH IN THIS AGREEMENT, WE DISCLAIM ANY AND ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SUITABILITY, COMPLETENESS OR RESULTS TO BE DERIVED FROM THE WORK.
-
-EXCEPT AS SET FORTH HEREIN, ALL DELIVERABLES ARE DELIVERED ON AN “AS-IS” BASIS.
-
-We make no guarantees whatsoever about the quality, reliability, suitability or safety of any third-party services included as part of the Deliverables, integrated with them, or used to host or deliver them, including any services We acquire or manage on Your behalf. 
-
-You agree that apart from the warranties expressly enumerated above, the entire risk arising from Your use of the Deliverables and any related Third-party services remains solely with You, to the maximum extent permitted under applicable law.
-
-**CONFORMITY, TESTING AND ACCEPTANCE OF DELIVERABLES:**
-
-We agree that all completed Deliverables will fully conform to the specifications, requirements and other terms set forth in the Statement of Work.  If You determine that the Deliverables do not conform to the Specifications, You may request a Cure so that it conforms to the Specifications within ten (10) days of such notice (the “Cure Period”). The Cure Period may be extended at Our discretion upon written notice to You of the reasons for such an extension. Such a cure may only consist in the correction of deficiencies in Deliverables submitted to you as “complete” or “finished” works— it may not be requested for preliminary works, including but not limited to presentations, writings, ideas, concepts, designs, plans, sketches, markups, wireframes, prototypes, models— and may not include substantial modifications to the Deliverables or the addition of new features. In the event that any deficiency in the completed Deliverables is a result of our workmanship, the cure will be completed for free. Should a requested cure be deemed by Us outside the scope of the Proposed Deliverables section of the attached Statement of Work or to entail substantial modifications or the addition of new features, such a cure may require additional charges— including, as necessary, charges beyond those described in the Budget section of the attached Statement of Work— or, at Our discretion, the creation of a new Proposal/Agreement and a new Project.
 
 **RIGHTS RETAINED AND DISTRIBUTED:**
 
@@ -97,35 +85,29 @@ Any third-party materials used in this Project may come with their own licensing
 
 You agree that We retain the exclusive ownership of all preliminary work, including, without limitation, all presentations, writings, ideas, concepts, designs, plans, sketches, markups, wireframes, prototypes, models all and other materials that We conceive or develop in connection with Our Services for You. You may not reproduce or distribute any such preliminary works without Our express written permission.
 
-You agree that We retain ownership of all computer code or scripts produced by Us, including, without limitation, all HTML, JavaScript, CSS, PHP, SQL, JSON, and all other materials that We conceive or develop in connection with Our Services for You, including materials incorporated therein whether such materials were conceived or created by Us individually or jointly, on or off the premises of Client, or during or after working time). We grant You, upon payment of all fees due to Us pursuant to this Agreement, a worldwide, irrevocable non-exclusive, royalty free, sub licensable, non-attribution license to use, modify, create derivative works, or otherwise exploit the work product.
-
 *(d) Rights Distributed to You*
 
-We agree that all deliverables and materials developed pursuant to this Agreement and not covered by other arrangements described herein (including, without limitation, all website text copy, images, graphics, and other materials that We conceive and develop pursuant to this Agreement, including all materials incorporated therein whether such materials were conceived or created by Us individually or jointly, on or off the premises of Client, or during or after working time) shall be treated as if the development of such deliverable constitutes a “work for hire” and shall be owned by You upon payment of all fees due to Us pursuant to this Agreement.
+We agree that all deliverables and materials developed pursuant to this Agreement and not covered by other arrangements described herein shall be treated as if the development of such deliverable constitutes a “work for hire” and shall be owned by You upon payment of all fees due to Us pursuant to this Agreement.
 
-In the event that any such material is considered not to be a “work made for hire,” We hereby assign all ownership (whether represented or not by a registered patent, copyright, trade secret) and other proprietary or rights, title and interest in such deliverables and materials to You, and agree to execute such documents as You may reasonably request, in order to assist You in obtaining and protecting such rights.
+In the event that any such material is considered not to be a “work made for hire,” upon payment of all fees due to Us, We hereby assign all ownership and other proprietary or rights, title and interest in such deliverables and materials to You, and agree to execute such documents as You may reasonably request, in order to assist You in obtaining and protecting such rights.
 
-We agree that We have no interest in any  such materials that We submit to You, including, without limitation, any security interest therein, and hereby release to You any interest therein (if any) which may be created by operation of law. Except as otherwise agreed to in writing and as necessary in the performance of this Agreement, We shall have no rights to license, sell or use the deliverables or materials developed under this Agreement, or any portion thereof.
+We agree that We have no interest in any such materials delivered to You after the payment of all fees due to Us has been made, including, without limitation, any security interest therein, and hereby release to You upon payment of all fees due to Us any interest therein (if any) which may be created by operation of law. Except as otherwise agreed to in writing and as necessary in the performance of this Agreement, We shall have no rights to license, sell or use the deliverables or materials developed under this Agreement.
 
 *(e) Authorial Attribution and Showcase of Work*
 
-All Deliverables will include authorial attribution, placement and prominence to be agreed upon by both parties, which You agree to maintain in a visible and identifiable manner.
+Authorial attribution, if required, shall be made in the manner agreed upon in the attached Statement of Work.
 
-You hereby agrees that We may use the Deliverables as part of Our portfolio and websites, galleries and other media solely for the purpose of showcasing Our work but not for any other purpose. We will not publish any confidential or non-public work without Your prior written consent.
+You hereby agrees that We may use any attributed Deliverables as part of Our portfolio and websites, galleries and other media solely for the purpose of showcasing Our work but not for any other purpose. We will not publish any confidential, un-attributed, or non-public work without Your prior written consent.
 
 **ASSISTANTS:**
 
 We may, at Our own expense, employ or engage the services of such employees, subcontractors, or partners, as We deem necessary to perform the Services (collectively, the “Assistants”). The Assistants are not and shall not be employees of the Client, and You shall have no obligation to provide Assistants with any salary or benefits. We shall be wholly responsible and shall remain liable for the performance of the Services by the Assistants in a manner satisfactory to You.
-
-You agree not to make any effort to hire said Assistants directly or otherwise employ said Assistants yourself for the duration of this Agreement and a period of twelve (12) months following its conclusion. Should you violate this term, You agree that you will be responsible for paying Us the full amount of the proposed budget for this project, even in the event that You choose to terminate the project before completion, in addition to any other remedies we may seek under the provisions of this Agreement.
 
 **PAYMENTS AND EXPENSES:**
 
 By accepting this Agreement and attached Statement of Work, You agree to the Schedule of Charges listed in the section of the attached Statement of Work titled “Budget.” You agree to make all payments on time and in full. Late or incomplete payments will compound interest at a rate of 1% per month, compounding. Please note that registered nonprofits (US 501(c)3’s or national equivalent) will be given a 30-day grace period before interest begins to compound. In the event that We begin charging interest on a late payment, We will also freeze ongoing work until payment is received. Returned checks will incur a penalty of either $25 or 5% of the balance, whichever is less.
 
 Sometimes projects incur additional expenses, such as research costs, travel expenses, or specialized subcontracted services/products required to complete the project (including but not limited to services such as professional photography or products such as proprietary software licenses required by Your specific needs). We will always make every effort to notify You in advance of any expected additional expenses. When We do incur additional expenses, we pass them along to you using the following formula: (a) individual travel and research expenses less than either 1% of the expected total project budget listed in the Statement of Work or $50, whichever is smaller (the “individual incidental expense allowance”), are written off as “incidental” until such time as the cumulative total of “incidental” expenses goes above 3% of the expected total budget or $150, whichever is smaller (the “cumulative incidental expense allowance”), (b) all non-“incidental” expenses, including all specialized subcontracted services/products, individual research and travel costs greater than the “individual incidental expense allowance,” and any “incidental” expenses in excess of the “cumulative incidental expense allowance” are passed on to you. Travel expenses, such as mileage, airfare, and meals, are passed along at cost or at the rate designated by the Internal Revenue Service, as applicable. Other expenses are passed along at a 50% mark-up. Sometimes it is possible for You to directly purchase items that might be billed as an expense. If that is possible, We will try to inform You so that you can make those arrangements.
-
-Before work can begin, We must receive a deposit of 20% of the expected project budget. After we begin work, We will send You additional invoices at regularly recurring intervals as described in the attached Statement of Work. In general, the terms of invoices will be Net+30, but We can make other arrangements upon request or in special circumstances.
 
 **LIMITED LIABILITY AND AGREEMENT TO INDEMNIFY:**
 
