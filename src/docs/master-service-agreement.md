@@ -45,9 +45,11 @@ During the term of this Agreement and for a period of twelve (12) months after t
 - (a) any attempts, either directly or indirectly, to call on, solicit, hire, or recruit any employee of the other party without the explicit permission of said party, or
 - (b) any attempts, either directly or indirectly, to call on, solicit, or take away any of the other party’s customers or clients.
 
+Soren reserves the right to terminate this agreement with 15-days notice if we determine that Your business activities present a conflict of interest to Our own or to that of Our other clients, partners, or employers.
+
 **OUR OBLIGATIONS TO YOU:**
 
-By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the section of the Statement of Work titled “Proposed Deliverables”, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of these Terms, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, and (e) provide for you all the rights and titles describes in these Terms.
+By submitting this Agreement and attached Statement of Work, We agree (upon Your acceptance of it) to: (a) Complete all the work described in the section of the Statement of Work titled “Proposed Deliverables”, (b) submit all Deliverables to you for testing an acceptance, as described in the “Testing and Acceptance” section of the attached Statement of Work, (c) communicate with You regularly regarding the status of the Deliverables and any anticipated delays, expenses, or questions We might have, (d) give You notice of any unforeseen circumstances that might affect the Services/Deliverables or cause a delay, and (e) provide for you all the rights and titles describes in these Terms.
 
 YOU AGREE THAT WE ARE NOT LIABLE FOR ANYTHING NOT LISTED AS AN OBLIGATION IN THESE TERMS.
 
