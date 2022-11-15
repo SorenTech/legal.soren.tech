@@ -1,6 +1,6 @@
 ---
 title: Acceptable Use Policy
-late-updated: September 26, 2017
+late-updated: November 14, 2022
 requires-sig: no
 ---
 
